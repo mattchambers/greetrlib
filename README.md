@@ -3,6 +3,9 @@ Small JS Library to get my feet wet!
 
 I created this JS library after learning the depts of how JS works. It's a library that gives developers the option to greet their users in either english or spanish with formal and informal greetings.
 
+## LIVE PREVIEW
+https://mattchambers.github.io/greetrlib/
+
 ## Methods 
 
 ### greet()
