@@ -29,7 +29,7 @@
 	Greetr.prototype = {
 
 		fullName: function(){
-			return this.fname + ' ' + this.lname+'full name method';
+			return this.fname + ' ' + this.lname;
 		},
 
 		validate: function(){
